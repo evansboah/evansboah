@@ -36,7 +36,7 @@
 | CompTIA Security+ | CompTIA |
 | Introduction to AWS Security | AWS |
 | GRC Analyst Master Class | Simply Cyber |
-| API Security for PCI Compliance | API Academy / PCI SSC |
+| API Security for PCI Compliance | API Academy / PCI  |
 | AWS Technical Essentials | AWS |
 | AWS Migration & Modernization Boot Camp | AWS |
 
