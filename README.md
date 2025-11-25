@@ -23,9 +23,9 @@
 
 | **Project** | **Description** | **Link** |
 |--------------|-----------------|-----------|
-| **AWS Security Monitoring System** | Designed a cloud-native security monitoring solution leveraging AWS CloudWatch, Config, and Security Hub to ensure continuous compliance with NIST and CIS benchmarks. | [🔗 View Project](https://github.com/yourusername/aws-security-monitoring-system) |
-| **AWS GuardDuty Threat Detection** | Developed a real-time threat detection and alerting pipeline using AWS GuardDuty, Lambda, and SNS to automate incident response and improve cloud security visibility. | [🔗 View Project](https://github.com/yourusername/aws-guardduty-threat-detection) |
-| **AWS Secrets Manager Automation** | Built a secure secrets rotation and management workflow using AWS Secrets Manager and IAM policies, enhancing application security and compliance readiness. | [🔗 View Project](https://github.com/yourusername/aws-secrets-manager-automation) |
+| **AWS Security Monitoring System** | Designed a cloud-native security monitoring solution leveraging AWS CloudWatch, Config, and Security Hub to ensure continuous compliance with NIST and CIS benchmarks. | [🔗 View Project](https://github.com/evansboah/aws-security-monitoring-system) |
+| **AWS GuardDuty Threat Detection** | Developed a real-time threat detection and alerting pipeline using AWS GuardDuty, Lambda, and SNS to automate incident response and improve cloud security visibility. | [🔗 View Project](https://github.com/evansboah/aws-guardduty-threat-detection) |
+| **AWS Secrets Manager Automation** | Built a secure secrets rotation and management workflow using AWS Secrets Manager and IAM policies, enhancing application security and compliance readiness. | [🔗 View Project](https://github.com/evansboah/aws-secrets-manager-automation) |
 
 ---
 
